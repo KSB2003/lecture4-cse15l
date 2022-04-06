@@ -5,7 +5,7 @@
 *This is italic*
 
 
-[youtube link](youtube.com)
+[youtube link](https://www.youtube.com/)
 
 
 This is `inline code`
